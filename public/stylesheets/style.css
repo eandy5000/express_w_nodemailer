@@ -1,0 +1,11 @@
+body {
+  padding-top: 50px;
+
+}
+
+.jumbotron {
+  background-image: url("../images/skyline.jpg");
+}
+.jumbo {
+  color: white;
+}
